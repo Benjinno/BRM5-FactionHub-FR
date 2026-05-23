@@ -1,8 +1,8 @@
-# Quartz v4
+# FactionHub FR BRM5 | Site Officiel
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+
+Bievenue sur le site officiel du FactionHub Francophone de BRM5, à travers ce site réalisé sur **[Quartz](https://github.com/jackyzha0/quartz)**, vous pourrez y retrouver de nombreuses informations à propos du jeu tels que sur les bots et lieux. Mais encore aussi sur les 
 
 🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
 
